@@ -1,0 +1,27 @@
+
+.lgn{
+    margin-top: 100px;
+    margin-left: 700px;
+    margin-right:700px;
+    /* border: 1px solid blue; */
+    padding: 30px;
+
+}
+.bgimage{
+    background-image: url("images/lock1.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#reg{
+     margin-top:50px ;
+     margin-left: 500px;
+     margin-right: 500px;
+     padding: 30px;
+    
+}
+.bg{
+    background-image: url(images/sign.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
